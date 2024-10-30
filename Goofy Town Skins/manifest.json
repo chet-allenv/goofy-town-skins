@@ -1,7 +1,7 @@
 {
-    "name": "Goofy Town Skins",
+    "name": "Goofy_Town_Skins",
     "author": "Chet",
-    "version_number": "1",
+    "version_number": "1.0.0",
     "website_url": "https://github.com/chet-allenv/goofy-town-skins",
     "description": "Skins for me and my friends.",
     "dependencies": [
